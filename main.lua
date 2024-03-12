@@ -15,6 +15,6 @@ function love.draw()
         love.graphics.circle('fill', pupilX, pupilY, 15)
     end
 
-    drawEye(200, 200)
-    drawEye(330, 200)
+    drawEye(300, 300)
+    drawEye(430, 300)
 end
